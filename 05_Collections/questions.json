@@ -1,0 +1,47 @@
+{
+  "sport": [
+    {
+      "question": "Which is a correct team name in the Premier League?",
+      "options": [
+        "1) Partick Thistle",
+        "2) Manchester Utd",
+        "3) Golden State Warriors",
+        "4) Houston Oilers"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who won the Women's world cup in 2019",
+      "options": [
+        "1) France",
+        "2) England",
+        "3) USA",
+        "4) Japan"
+      ],
+      "answer": 3
+    }
+  ],
+  "maths": [
+    {
+      "question": "5 + 7 = ?",
+      "options": [
+        "1) 10",
+        "2) 11",
+        "3) 12",
+        "4) 13"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "12 - 8 = ?",
+      "options": [
+        "1) 1",
+        "2) 2",
+        "3) 3",
+        "4) 4"
+      ],
+      "answer": 4
+    }
+  ]
+
+}

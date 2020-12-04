@@ -1,0 +1,9 @@
+2020-10-02 M 0.18 250 SW114NP LE112NP 45.00 Travel to Leeds
+2020-10-05EFood 15.00 Evening Meal
+2020-10-16 E Parking 25 Parking at client site
+2020-10-07 M 0.18 220 BS55NP L138BT 32.00 Travel to Liverpool
+2020-10-08M0.18 250 SW114NP LE112NP 45.00 Travel to Leeds
+2020-10-09 E Food 5.00 DVD
+2020-10-10 E Parking 35 Parking at client site
+2020-10-11 M 0.18 120 SW114NP LE102NP 21.60 Travel to Leeds
+2020-10-12 E Parking 15 Parking at client site
