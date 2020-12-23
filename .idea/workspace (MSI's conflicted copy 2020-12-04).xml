@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1bc964c-9616-4209-944e-6c49a8a383dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/.ipynb_checkpoints/02 Variables and Data Types-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/.ipynb_checkpoints/Variables and Data Types-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Challenges/.ipynb_checkpoints/challenge1-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Challenges/.ipynb_checkpoints/challenge2-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Challenges/.ipynb_checkpoints/challenge3-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Challenges/.ipynb_checkpoints/challenge4-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Challenges/challenge1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Challenges/challenge2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Challenges/challenge3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Challenges/challenge4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Solution/challenge1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Solution/challenge2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Solution/challenge3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Solution/challenge4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamental_Variables/Variables and Data Types.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Flow_Control/.ipynb_checkpoints/04 Controlling Execution Flow-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Flow_Control/.ipynb_checkpoints/Controlling_Execution_Flow-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Flow_Control/.ipynb_checkpoints/challenge1-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Flow_Control/.ipynb_checkpoints/challenge2-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Flow_Control/Controlling_Execution_Flow.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Flow_Control/Solution/challenge1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Flow_Control/Solution/challenge2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Flow_Control/challenge1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Flow_Control/challenge2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_String_Handling/.ipynb_checkpoints/Strings-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_String_Handling/Solution/bitcoin_price.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_String_Handling/Solution/bitcoin_prices.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_String_Handling/Solution/challenge1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_String_Handling/Solution/challenge2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_String_Handling/Strings.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_String_Handling/bitcoin_price.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_String_Handling/bitcoin_prices.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_String_Handling/challenge1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_String_Handling/challenge2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Collections/.ipynb_checkpoints/Collections-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Collections/.ipynb_checkpoints/morse-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Collections/Collections.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Collections/Solution/morse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Collections/Solution/questions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Collections/Solution/quiz_solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Collections/morse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Collections/questions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Collections/quiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Collections/quiz_solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_regular_expressions/.ipynb_checkpoints/RegularExpressions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_regular_expressions/RegularExpressions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_regular_expressions/Solution/expenses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_regular_expressions/Solution/expenses01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_regular_expressions/Solution/postcodes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_regular_expressions/Solution/postcodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_regular_expressions/Solution/valid_postcodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_regular_expressions/expenses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_regular_expressions/expenses01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_regular_expressions/postcodes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_regular_expressions/postcodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/.ipynb_checkpoints/FilesB-Process-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/.ipynb_checkpoints/FilesC-Storing-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/.ipynb_checkpoints/data-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/.ipynb_checkpoints/datastorage-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/.ipynb_checkpoints/movies-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/FilesB-Process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/FilesC-Storing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/datastorage.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/movies.p" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/movies.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/solution/Solution07-FilesA-ReadWrite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/solution/Solution07-FilesB-Process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_data_storage/solution/Solution07-FilesC-Storing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Functions/.ipynb_checkpoints/challenge1-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Functions/.ipynb_checkpoints/functions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Functions/challenge1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Functions/functions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Functions/movies.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day4.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EG01_Python_QuickLabs.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EG01_Python_QuickLabs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EG01_Python_QuickLabs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qa_front_page.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qa_front_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$01_Python_QuickLabs.docx" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lCLuoRIz7caRnd5YO4PKI4lQu9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="challenge2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="labs_new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Flow_Control/Solution" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Flow_Control/Solution/challenge2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.challenge2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1bc964c-9616-4209-944e-6c49a8a383dd" name="Default Changelist" comment="" />
+      <created>1607096351177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607096351177</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
