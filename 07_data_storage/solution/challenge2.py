@@ -62,7 +62,7 @@ with-as can be used with gzip
 """
 
 
-''' OUTPUT (07.Files/Solution07-FilesC-Storing.py):
+''' OUTPUT (07.Files/Solution07-challenge2.py):
 {'England': ['England,50093800,London,11219000,Europe,1066,British', 'Pound,Anglican;Catholisicm;Other,English'], 'Eritrea': ['Eritrea,4561599,Asmara,?,Africa,1993,Nakfa,Muslim;Catholisism,Tigrina,Arabic,English'], 'Ecuador': ['Ecuador,13212742,Quito,1994318,Latin', 'America,1822,US', 'Dollar,Catholicism,Spanish,Quechua'], 'Estonia': ['Estonia,1341664,Tallinn,?,Europe,1991,Kroon,Lutheran;Orthodox,Estonian,Russian,Finish'], 'Equatorial Guinea': ['Equatorial', 'Guinea,523051,Malabo,?,Africa,1967,CFA', 'Franc,Catholisism,Spanish,French'], 'El Salvador': ['El', 'Salvador,6587541,San', 'Salvador,2100000,Latin', 'America,1821,US', 'Dollar,Catholicism,Spanish,Nahua'], 'Ethiopia': ['Ethiopia,67617000,Addis', 'Ababa,1495266,Africa,-1000,Birr,Muslim;Orthodox,Amharic,Tigrina'], 'East Timor': ['East', 'Timor,1019252,Dili,?,Asia,1975,US', 'Dollar,Catholicism,Tetu,Portuguese,Indonesian,English'], 'Egypt': ['Egypt,76117421,Cairo,15452000,Africa,1922,Egyptian', 'Pound,Sunni', 'Muslim,Arabic'], '\n': []}
 
 '''

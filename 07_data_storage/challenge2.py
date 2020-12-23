@@ -29,6 +29,6 @@ Ethiopia,67617000,Addis Ababa,1495266,Africa,-1000,Birr,Muslim;Orthodox,Amharic,
 # ... pickle load it and print out the data
 
 
-''' OUTPUT (07.Files/Exercise07-FilesC-Storing.py):
+''' OUTPUT (07.Files/Exercise07-challenge2.py):
 
 '''

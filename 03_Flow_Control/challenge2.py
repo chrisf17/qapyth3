@@ -1,14 +1,11 @@
-def generate_numbers(start, stop, step = 1):
-    count = start
-    while count < stop:
-        yield count
-        count += step
+count = 20
+i = 0
+while i < count:
+    print(i)
+    i += 1
 
-def primes(count):
-    pass
+# TODO: Loop for Primes
 
-def fibonacci(count):
-    pass
 
-for num in generate_numbers(0, 20):
-    print(num)
+
+# TODO: Loop for fibonacci

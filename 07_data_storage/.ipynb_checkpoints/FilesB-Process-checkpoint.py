@@ -28,6 +28,6 @@ message = """
 # Q. remember to close the output file connection
 
 
-''' OUTPUT (07.Files/Exercise07-FilesB-Process.py):
+''' OUTPUT (07.Files/Exercise07-challenge1.py):
 
 '''
